@@ -61,7 +61,7 @@
 **Run production**
 1. `npm install -g serve` (if not installed)
 2. `serve -s dist -l 4000`
-3. http://localhost:3000/
+3. http://localhost:4000/
 
 # ⚙️ Требования.
 - npm v8.12.1
